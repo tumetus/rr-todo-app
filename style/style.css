@@ -1,0 +1,15 @@
+.list-view {
+  margin-top: 15px;
+}
+.todo-list {
+  list-style-type: none;
+  padding: 0;
+}
+.todo {
+  cursor: pointer;
+  font-weight: bold;
+}
+.done {
+  color: gray;
+  opacity: 0.5;
+}

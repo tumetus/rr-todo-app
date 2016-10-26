@@ -2,7 +2,7 @@
 Skeleton for react &amp; redux projects. Includes basic boilerplate code needed to get started.
 
 ```
-	> git clone git@github.com:tumetus/react-redux-skeleton.git
+	> git clone https://github.com/tumetus/react-redux-skeleton.git
 	> cd react-redux-skeleton
 	> npm install
 	> npm start
